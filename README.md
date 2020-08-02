@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ***Using C# to build powerful, scalable applications***
 - 🌱 I’m currently learning to **build microservices with `GO`**
 - 👯 I’m looking to collaborate on **opensource fintech projects**
-- 📫 How to reach me: frankofoedu@gmail.com
+- 📫 How to reach me: frankofoedu@insytai.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Fun is good
