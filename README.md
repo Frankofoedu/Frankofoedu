@@ -7,11 +7,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ***Using C# to build powerful, scalable applications***
+- 🔭 I’m currently working @Microsoft on the Azure Spatial Anchors team
 - 🌱 I’m currently learning to **build microservices with `GO`**
-- 👯 I’m looking to collaborate on **opensource fintech projects**
-- 📫 How to reach me: frankofoedu@insytai.com
-- 😄 Pronouns: ...
+- 📫 How to reach me: frankofoedu@gmail.com
 - ⚡ Fun fact: Fun is good
 
 
