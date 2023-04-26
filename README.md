@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working @Microsoft on the Azure Spatial Anchors team
+- 🔭 I’m currently working @Microsoft on the Mesh team
 - 🌱 I’m currently learning to **build microservices with `GO`**
 - 📫 How to reach me: frankofoedu@gmail.com
 - ⚡ Fun fact: Fun is good
